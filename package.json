@@ -1,0 +1,11 @@
+{
+  "name": "personal-blog-content",
+  "private": true,
+  "scripts": {
+    "postinstall": "cd engine && npm install",
+    "dev": "cd engine && npm run dev",
+    "build": "cd engine && npm run build",
+    "preview": "cd engine && npm run preview",
+    "check": "cd engine && npm run check"
+  }
+}

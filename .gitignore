@@ -1,0 +1,9 @@
+node_modules
+.astro
+.generated
+dist
+.env
+.env.local
+.DS_Store
+
+# Engine is a submodule tracked by Git
