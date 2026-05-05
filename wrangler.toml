@@ -1,9 +1,7 @@
-# Cloudflare Pages configuration for The Invincible Blog
-# Deploy via Git integration or with: npx wrangler pages deploy ./engine/dist --project-name=personal-blog
+name = "personal-website"
+compatibility_date = "2026-02-14"
+workers_dev = true
 
-[build]
-command = "cd engine && npm run build"
+[assets]
+include = ["**/*"]
 directory = "engine/dist"
-
-[build.environment]
-NODE_VERSION = "20"
