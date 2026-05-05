@@ -7,8 +7,8 @@
     "build": "cd engine && npm run build",
     "preview": "cd engine && npm run preview",
     "check": "cd engine && npm run check",
-    "deploy": "npx wrangler pages deploy ./engine/dist --project-name=personal-blog",
-    "deploy:prod": "npx wrangler pages deploy ./engine/dist --project-name=personal-blog --branch=main",
-    "deploy:preview": "wnpx rangler pages deploy ./engine/dist --project-name=personal-blog --branch=preview"
+    "deploy": "npx wrangler@latest deploy",
+    "deploy:prod": "npx wrangler@latest pages deploy ./engine/dist --project-name=personal-blog --branch=main",
+    "deploy:preview": "npx wrangler@latest pages deploy ./engine/dist --project-name=personal-blog --branch=preview"
   }
 }
