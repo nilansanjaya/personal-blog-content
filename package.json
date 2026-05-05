@@ -6,6 +6,9 @@
     "dev": "cd engine && npm run dev",
     "build": "cd engine && npm run build",
     "preview": "cd engine && npm run preview",
-    "check": "cd engine && npm run check"
+    "check": "cd engine && npm run check",
+    "deploy": "wrangler pages deploy ./engine/dist --project-name=personal-blog",
+    "deploy:prod": "wrangler pages deploy ./engine/dist --project-name=personal-blog --branch=main",
+    "deploy:preview": "wrangler pages deploy ./engine/dist --project-name=personal-blog --branch=preview"
   }
 }
