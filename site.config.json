@@ -80,7 +80,8 @@
     "tagsSection": {
       "eyebrow": "Tags",
       "title": "Browse by tag",
-      "ctaLabel": "All tags"
+      "ctaLabel": "All tags",
+      "showTags": ["all-in", "saas", "founder", "personal-growth", "productivity", "travel", "software-development"]
     }
   },
   "blogIndex": {
