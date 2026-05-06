@@ -111,5 +111,8 @@
   "relatedPosts": {
     "eyebrow": "Related",
     "title": "More from the archive"
+  },
+  "tracking": {
+    "head": "<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-62HQHJ8ZKD\"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-62HQHJ8ZKD');</script>"
   }
 }
