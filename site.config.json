@@ -85,25 +85,25 @@
     }
   },
   "blogIndex": {
-    "metaDescription": "Browse every post from The Invincible archive and search by title, category, or description.",
+    "metaDescription": "Browse every post from The Invincible Archive and search by title, category, or description.",
     "eyebrow": "Blog",
-    "title": "The Invincible archive",
-    "description": "Search posts by title, category, or description without needing a backend."
+    "title": "The Invincible Archive",
+    "description": "Find your favorite posts or discover something new by searching the archive."
   },
   "categoriesPage": {
-    "metaDescription": "Browse all categories from The Invincible archive.",
+    "metaDescription": "Browse all categories from The Invincible Archive.",
     "eyebrow": "Categories",
-    "title": "Browse the content by category",
-    "description": "Categories keep related posts grouped together across the archive.",
+    "title": "Browse content by category",
+    "description": "Check out interesting posts from your favorite categories.",
     "cardLabel": "Category",
     "detailEyebrow": "Category",
     "detailDescription": "All posts grouped under this category.",
     "emptyMessage": "No posts were found for this category."
   },
   "tagsPage": {
-    "metaDescription": "Browse all tags from The Invincible archive.",
+    "metaDescription": "Browse all tags from The Invincible Archive.",
     "eyebrow": "Tags",
-    "title": "Browse the content by tag",
+    "title": "Browse content by tag",
     "description": "Tags make it easy to follow topics across categories and spot related posts quickly.",
     "detailEyebrow": "Tag",
     "detailDescription": "Posts linked by the same tag.",
