@@ -18,7 +18,9 @@
     "linkHover": "#0e7490",
     "selection": "#d9f99d",
     "heroFrom": "#0f766e",
-    "heroTo": "#f59e0b"
+    "heroTo": "#f59e0b",
+    "codeText": "#102018",
+    "tableHeaderText": "#102018"
   },
   "nav": [
     {
