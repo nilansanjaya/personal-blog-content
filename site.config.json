@@ -28,8 +28,8 @@
       "label": "Home"
     },
     {
-      "href": "/blog/",
-      "label": "Blog"
+      "href": "/posts/",
+      "label": "Posts"
     },
     {
       "href": "/categories/",
@@ -50,7 +50,7 @@
     "title": "Notes from a builder, founder, and occasional overthinker.",
     "description": "A personal blog about software, startups, travel, productivity, and the long route from ideas to shipped work.",
     "primaryCta": {
-      "href": "/blog/",
+      "href": "/posts/",
       "label": "Browse posts"
     },
     "secondaryCta": {
